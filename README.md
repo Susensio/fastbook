@@ -1,3 +1,33 @@
+# Personal fork of fastbook for tracking progress
+
+![Progress](https://progress-bar.dev/15)
+
+- [x] 01_intro
+- [x] 02_production
+- [ ] 03_ethics
+- [ ] 04_mnist_basics
+- [ ] 05_pet_breeds
+- [ ] 06_multicat
+- [ ] 07_sizing_and_tta
+- [ ] 08_collab
+- [ ] 09_tabular
+- [ ] 10_nlp
+- [ ] 11_midlevel_data
+- [ ] 12_nlp_dive
+- [ ] 13_convolutions
+- [ ] 14_resnet
+- [ ] 15_arch_details
+- [ ] 16_accel_sgd
+- [ ] 17_foundations
+- [ ] 18_CAM
+- [ ] 19_learner
+- [ ] 20_conclusion
+
+
+
+-------------------
+### Original README
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
 
